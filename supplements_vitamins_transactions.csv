@@ -1,0 +1,21 @@
+Transaction_ID,Item1,Item2,Item3,Item4,Item5,Total Price
+1,Omega-3 Capsules,Magnesium Pills,Multivitamins,Calcium Tablets,Zinc Tablets,73.95
+2,Probiotics,Omega-3 Capsules,,,,44.48
+3,Zinc Tablets,B12 Shots,Calcium Tablets,Omega-3 Capsules,,72.96
+4,Omega-3 Capsules,Magnesium Pills,,,,29.48
+5,Calcium Tablets,Omega-3 Capsules,Magnesium Pills,Folic Acid,Multivitamins,74.95
+6,Omega-3 Capsules,Probiotics,Iron Supplement,Multivitamins,Zinc Tablets,89.75
+7,Probiotics,Vitamin D,,,,38.98
+8,Magnesium Pills,Folic Acid,Iron Supplement,Probiotics,,62.26
+9,Calcium Tablets,Zinc Tablets,,,,23.48
+10,Iron Supplement,Probiotics,B12 Shots,Vitamin D,,85.26
+11,B12 Shots,Omega-3 Capsules,Calcium Tablets,,,63.97
+12,Zinc Tablets,Omega-3 Capsules,B12 Shots,Probiotics,,84.46
+13,Vitamin D,Iron Supplement,Folic Acid,Probiotics,Calcium Tablets,78.75
+14,Multivitamins,Magnesium Pills,Zinc Tablets,Iron Supplement,Vitamin D,69.25
+15,Zinc Tablets,Folic Acid,B12 Shots,Vitamin D,Calcium Tablets,77.45
+16,Probiotics,Vitamin D,Zinc Tablets,,,47.97
+17,Omega-3 Capsules,Zinc Tablets,Calcium Tablets,Probiotics,,67.96
+18,Omega-3 Capsules,Multivitamins,Magnesium Pills,,,50.47
+19,B12 Shots,Calcium Tablets,Magnesium Pills,Iron Supplement,Omega-3 Capsules,90.25
+20,Vitamin D,Magnesium Pills,Omega-3 Capsules,Calcium Tablets,,56.96

@@ -1,0 +1,21 @@
+Transaction_ID,Item1,Item2,Item3,Item4,Item5,Total Price
+1,Collagen Peptides,Plant-Based Protein,Soy Protein Powder,,,77.47
+2,Caesin Protein,Collagen Peptides,Pre-Workout Powder,,,84.47
+3,Caesin Protein,Pre-Workout Powder,,,,61.48
+4,Soy Protein Powder,Keto Snack,Collagen Peptides,Plant-Based Protein,Whey Protein Powder,109.95
+5,Pre-Workout Powder,BCAA Supplement,,,,52.98
+6,Pre-Workout Powder,Collagen Peptides,Whey Protein Powder,Caesin Protein,Keto Snack,116.95
+7,BCAA Supplement,Collagen Peptides,Soy Protein Powder,Energy Bar,Keto Snack,74.45
+8,Energy Bar,Soy Protein Powder,Plant-Based Protein,Whey Protein Powder,BCAA Supplement,106.45
+9,Soy Protein Powder,Keto Snack,Plant-Based Protein,BCAA Supplement,Pre-Workout Powder,109.95
+10,Plant-Based Protein,Pre-Workout Powder,Keto Snack,BCAA Supplement,Caesin Protein,111.45
+11,Caesin Protein,Energy Bar,,,,30.48
+12,Whey Protein Powder,Plant-Based Protein,Energy Bar,Meal Replacement Shake,Soy Protein Powder,90.45
+13,Pre-Workout Powder,Meal Replacement Shake,BCAA Supplement,Plant-Based Protein,Keto Snack,86.95
+14,Keto Snack,Meal Replacement Shake,,,,6.48
+15,Pre-Workout Powder,Keto Snack,Meal Replacement Shake,,,39.47
+16,Meal Replacement Shake,Keto Snack,Collagen Peptides,,,29.47
+17,Keto Snack,Meal Replacement Shake,BCAA Supplement,Plant-Based Protein,,53.96
+18,Meal Replacement Shake,Collagen Peptides,,,,26.98
+19,Energy Bar,Keto Snack,BCAA Supplement,Collagen Peptides,,47.46
+20,Plant-Based Protein,BCAA Supplement,Collagen Peptides,Soy Protein Powder,,97.46

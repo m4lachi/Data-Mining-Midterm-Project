@@ -1,0 +1,21 @@
+Transaction_ID,Item1,Item2,Item3,Item4,Item5,Total Price
+1,Antiseptic Wipes,Digital Thermometer,Disinfecting Spary,Compression Sock,,34.46
+2,Compression Sock,Electrolyte Drink,DNA Test Kit,Digital Thermometer,,85.96
+3,Electrolyte Drink,DNA Test Kit,Compression Sock,,,75.97
+4,Compression Sock,DNA Test Kit,N95 Mask,Blood Glucose Monitor,Hand Santizier,122.45
+5,Hand Santizier,Disinfecting Spary,First Aid Kit,N95 Mask,,31.46
+6,Compression Sock,Hand Santizier,DNA Test Kit,,,76.47
+7,DNA Test Kit,Digital Thermometer,Compression Sock,Blood Glucose Monitor,Electrolyte Drink,125.95
+8,Hand Santizier,Electrolyte Drink,Compression Sock,Blood Glucose Monitor,DNA Test Kit,119.45
+9,Antiseptic Wipes,DNA Test Kit,Hand Santizier,Blood Glucose Monitor,Electrolyte Drink,110.95
+10,Blood Glucose Monitor,DNA Test Kit,Disinfecting Spary,Antiseptic Wipes,,111.46
+11,Hand Santizier,DNA Test Kit,Blood Glucose Monitor,,,103.47
+12,Digital Thermometer,First Aid Kit,,,,24.98
+13,DNA Test Kit,Compression Sock,,,,72.98
+14,Electrolyte Drink,Digital Thermometer,DNA Test Kit,Hand Santizier,,76.46
+15,First Aid Kit,Blood Glucose Monitor,Digital Thermometer,,,64.97
+16,Blood Glucose Monitor,Digital Thermometer,DNA Test Kit,,,109.97
+17,Compression Sock,Electrolyte Drink,Blood Glucose Monitor,,,55.97
+18,Hand Santizier,Disinfecting Spary,Compression Sock,,,23.47
+19,Hand Santizier,Compression Sock,Antiseptic Wipes,First Aid Kit,,35.96
+20,N95 Mask,First Aid Kit,Hand Santizier,Digital Thermometer,,34.46

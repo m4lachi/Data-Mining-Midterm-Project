@@ -1,0 +1,21 @@
+Transaction_ID,Item1,Item2,Item3,Item4,Item5,Total Price
+1,Retinol Night Cream,Anti-Aging Eye Cream,Vitamin C Serum,,,74.97
+2,Sunscreen SPF 50,Face Mask,Vitamin C Serum,,,41.97
+3,Moisturizer,Aloe Vera Gel,Sunscreen SPF 50,,,35.47
+4,Hyaluronic Acid Serum,Aloe Vera Gel,,,,29.48
+5,Lip Balm,Face Mask,Aloe Vera Gel,Hyaluronic Acid Serum,,35.96
+6,Moisturizer,Lip Balm,Collagen Cream,Face Mask,,40.96
+7,Lip Balm,Anti-Aging Eye Cream,,,,22.48
+8,Sunscreen SPF 50,Lip Balm,Retinol Night Cream,Hyaluronic Acid Serum,Face Mask,72.45
+9,Vitamin C Serum,Face Mask,Sunscreen SPF 50,,,41.97
+10,Vitamin C Serum,Sunscreen SPF 50,Lip Balm,Retinol Night Cream,Collagen Cream,88.95
+11,Moisturizer,Collagen Cream,Hyaluronic Acid Serum,Sunscreen SPF 50,,70.46
+12,Collagen Cream,Sunscreen SPF 50,Lip Balm,Retinol Night Cream,,63.96
+13,Collagen Cream,Anti-Aging Eye Cream,Sunscreen SPF 50,Hyaluronic Acid Serum,Retinol Night Cream,104.45
+14,Face Mask,Collagen Cream,,,,22.48
+15,Anti-Aging Eye Cream,Hyaluronic Acid Serum,Face Mask,,,46.97
+16,Lip Balm,Collagen Cream,Sunscreen SPF 50,Anti-Aging Eye Cream,Vitamin C Serum,78.95
+17,Face Mask,Aloe Vera Gel,,,,10.48
+18,Hyaluronic Acid Serum,Moisturizer,Lip Balm,,,41.47
+19,Lip Balm,Aloe Vera Gel,,,,8.98
+20,Hyaluronic Acid Serum,Lip Balm,,,,25.48

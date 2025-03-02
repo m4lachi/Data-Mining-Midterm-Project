@@ -1,0 +1,21 @@
+Transaction_ID,Item1,Item2,Item3,Item4,Item5,Total Price
+1,Organic Spinach,Lactose-Free Milk,Gluten-Free Bread,Soy Milk,Kombucha,22.55
+2,GMO-Free Corn,Organic Spinach,Chia Seeds,Probiotic Yogurt,,14.96
+3,Organic Spinach,Kombucha,Gluten-Free Bread,Probiotic Yogurt,,16.26
+4,Probiotic Yogurt,Soy Milk,Kombucha,,,10.07
+5,Tofu,Soy Milk,Probiotic Yogurt,GMO-Free Corn,Lactose-Free Milk,15.75
+6,GMO-Free Corn,Tofu,,,,5.48
+7,Tofu,Probiotic Yogurt,Organic Spinach,,,8.97
+8,Gluten-Free Bread,Chia Seeds,Almond Butter,Kombucha,GMO-Free Corn,27.25
+9,Gluten-Free Bread,Soy Milk,Probiotic Yogurt,Almond Butter,GMO-Free Corn,21.25
+10,Kombucha,Chia Seeds,Tofu,GMO-Free Corn,Soy Milk,20.05
+11,Kombucha,Lactose-Free Milk,,,,9.78
+12,Kombucha,Gluten-Free Bread,Organic Spinach,Probiotic Yogurt,,16.26
+13,Gluten-Free Bread,Chia Seeds,GMO-Free Corn,Probiotic Yogurt,Organic Spinach,20.45
+14,Almond Butter,Kombucha,Organic Spinach,,,16.77
+15,Kombucha,Tofu,Lactose-Free Milk,GMO-Free Corn,Organic Spinach,19.25
+16,Tofu,Chia Seeds,Probiotic Yogurt,,,11.47
+17,Almond Butter,Organic Spinach,,,,11.98
+18,Gluten-Free Bread,Lactose-Free Milk,Organic Spinach,,,14.47
+19,Almond Butter,Chia Seeds,Lactose-Free Milk,,,19.47
+20,Tofu,GMO-Free Corn,,,,5.48
