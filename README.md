@@ -1,10 +1,10 @@
 # Data-Mining Midterm Project
 
-## OverviewT
-his Python program that compares the efficiency and effectiveness of two algorithms for finding frequent itemsets and association rules in transactional datasets: the Brute Force method and the Apriori algorithm (using the `mlxtend` library). This program allows users to select a dataset, specify minimum support and confidence thresholds, and evaluate the performance of each approach.
+## Overview 
+This Python program compares the efficiency and effectiveness of two algorithms for finding frequent itemsets and association rules in transactional datasets: the Brute Force method and the Apriori algorithm (using the `mlxtend` library). This program allows users to select a dataset, specify minimum support and confidence thresholds, and evaluate the performance of each approach.
 
 ## Features
-- **Brute Force Method:** Iterates through all possible itemsets to determine frequent itemsets and generate association rules.
+- **Brute Force Method:** It iterates through all possible itemsets to determine frequent itemsets and generate association rules.
 - **Apriori Algorithm:** Uses an efficient, iterative method to find frequent itemsets and generate association rules.
 - **Performance Comparison:** Measures and compares the execution time of both methods.
 - **User Input:** Allows users to select transaction datasets and define minimum support and confidence thresholds.
@@ -18,7 +18,6 @@ The program requires the following Python libraries:
 - `collections`
 - `pandas`
 - `mlxtend`
-- `matplotlib`
 
 To install missing dependencies, run:
 ```bash
