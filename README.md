@@ -21,7 +21,7 @@ The program requires the following Python libraries:
 
 To install missing dependencies, run:
 ```bash
-pip install pandas mlxtend matplotlib
+pip install pandas mlxtend
 ```
 
 ## Usage
